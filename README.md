@@ -13,6 +13,6 @@ The background color is `background: linear-gradient(112.1deg, rgb(32, 38, 57) 1
 ## Functionalities:
 * `Invalid City Name` showing up when you're entering an unknown city name.
 * `Humidity` and `Wind Speed` are present at the bottom of the weather card.
-![bottom-card] (https://prnt.sc/FOp-gBmmUY4Y)
+<img src="https://prnt.sc/FOp-gBmmUY4Y"></img>
 * Weather icon changes based on the city's weather info.
 ![sunny-weather] (https://prnt.sc/Puqb6jAmKks9) ![cloudy] (https://prnt.sc/x8kNTXDdL-7i) ![rainy] (https://prnt.sc/G_dMQoZ1wKkx)
