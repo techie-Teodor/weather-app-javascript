@@ -1,7 +1,7 @@
 # weather-app-javascript
 **This is a Weather App made with WeatherAPI**
 
-![weather-app] (https://img001.prntscr.com/file/img001/btPEsP4HTKq1kV29zVUm1g.png)
+<img src="https://img001.prntscr.com/file/img001/btPEsP4HTKq1kV29zVUm1g.png">
 
 ### The app utilizes:
 * a FREE API from WeatherAPI.com 
@@ -13,6 +13,6 @@ The background color is `background: linear-gradient(112.1deg, rgb(32, 38, 57) 1
 ## Functionalities:
 * `Invalid City Name` showing up when you're entering an unknown city name.
 * `Humidity` and `Wind Speed` are present at the bottom of the weather card.
-<img src="https://img001.prntscr.com/file/img001/wGYxNCDSQtGA3X7OqFzKmQ.png"></img>
+<img src="https://img001.prntscr.com/file/img001/wGYxNCDSQtGA3X7OqFzKmQ.png">
 * Weather icon changes based on the city's weather info.
-![sunny-weather] (https://img001.prntscr.com/file/img001/lR2rfxzMRGqWM7BjT2MuWw.png) ![cloudy] (https://img001.prntscr.com/file/img001/jHk2L03GTg6mNviIlrs50w.png) ![rainy] (https://img001.prntscr.com/file/img001/lmBrLzOETauqaojqj0KfDw.png)
+<img src="https://img001.prntscr.com/file/img001/lR2rfxzMRGqWM7BjT2MuWw.png"> <img src="https://img001.prntscr.com/file/img001/jHk2L03GTg6mNviIlrs50w.png"> <img src="https://img001.prntscr.com/file/img001/lmBrLzOETauqaojqj0KfDw.png">
