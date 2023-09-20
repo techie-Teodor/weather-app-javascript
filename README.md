@@ -19,3 +19,6 @@ The background color is `background: linear-gradient(112.1deg, rgb(32, 38, 57) 1
 
 ## Future updates:
 * TBA
+
+### View deployment here
+! (https://techie-teodor.github.io/weather-app-javascript/)
