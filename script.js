@@ -8,7 +8,7 @@ const weatherIcon = document.querySelector(".weather-icon");
 async function checkWeather(city) {
     const response = await fetch(`${baseURL}?key=${weatherAPIkey}&q=${city}&aqi=no`);
 
-    if(response.status == 404) {
+    if(!response.ok) {
         document.querySelector(".error").style.display = "block";
         document.querySelector(".weather").style.display = "none";
     } else {
@@ -23,6 +23,12 @@ async function checkWeather(city) {
         switch (data.current.condition.text) {
             case "Patchy light rain":
                 weatherIcon.src = "./images/drizzle-icon.png";
+                break;
+            case "Partly cloudy":
+                    weatherIcon.src = "./images/mist-icon.png";
+                break;
+            case "Clear":
+                    weatherIcon.src = "./images/clear-icon.png";
                 break;
             case "Snow":
                 weatherIcon.src = "./images/snow-icon.png";
