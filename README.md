@@ -1,7 +1,6 @@
 # weather-app-javascript
 **This is a Weather App made with WeatherAPI**
-
-<img src="https://img001.prntscr.com/file/img001/btPEsP4HTKq1kV29zVUm1g.png">
+<img src="https://img001.prntscr.com/file/img001/SsaKv7pXT1WH3dH64zq-7w.png">
 
 ### The app utilizes:
 * a FREE API from WeatherAPI.com 
@@ -12,7 +11,8 @@ The background color is `background: linear-gradient(112.1deg, rgb(32, 38, 57) 1
 
 ## Functionalities:
 * `Invalid City Name` showing up when you're entering an unknown city name.
+<img src="https://img001.prntscr.com/file/img001/btPEsP4HTKq1kV29zVUm1g.png">
 * `Humidity` and `Wind Speed` are present at the bottom of the weather card.
 <img src="https://img001.prntscr.com/file/img001/wGYxNCDSQtGA3X7OqFzKmQ.png">
 * Weather icon changes based on the city's weather info.
-<img src="https://img001.prntscr.com/file/img001/lR2rfxzMRGqWM7BjT2MuWw.png"> <img src="https://img001.prntscr.com/file/img001/jHk2L03GTg6mNviIlrs50w.png"> <img src="https://img001.prntscr.com/file/img001/lmBrLzOETauqaojqj0KfDw.png">
+<img src="https://img001.prntscr.com/file/img001/lR2rfxzMRGqWM7BjT2MuWw.png" style="display: inline-block; margin: 0 auto; max-width: 300px"> <img src="https://img001.prntscr.com/file/img001/jHk2L03GTg6mNviIlrs50w.png" style="display: inline-block; margin: 0 auto; max-width: 300px"> <img src="https://img001.prntscr.com/file/img001/lmBrLzOETauqaojqj0KfDw.png" style="display: inline-block; margin: 0 auto; max-width: 300px">
