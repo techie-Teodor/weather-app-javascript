@@ -18,7 +18,12 @@ The background color is `background: linear-gradient(112.1deg, rgb(32, 38, 57) 1
 <img src="https://i.imgur.com/HSMepxN.png">
 
 ## Future updates:
-* TBA
+* More weather info to be added
+* 14 days forecast to be added
+* JS Animation library to be added
 
 ### View deployment here
-![Live Website](https://techie-teodor.github.io/weather-app-javascript/)
+ <p align="center">
+  View <a href="https://techie-teodor.github.io/weather-app-javascript/">Live demo</a>.
+ </p>
+
